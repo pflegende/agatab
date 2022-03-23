@@ -36,7 +36,7 @@ now for some dramaturgic reasons:
 
 Put your supposition as an issue. Lets see who hit nearest to solution in some weeks.
 
-https://www.protectedtext.com/agatab p defa
+https://www.protectedtext.com/agatab p hint: ItalienUrlaubDerEnländereltern
 
 don't forget the wiki
 https://github.com/pflegende/agatab/wiki
