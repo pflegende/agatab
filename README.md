@@ -47,6 +47,8 @@ Put your supposition as an issue. Lets see who hit nearest to solution in some w
 
 https://www.protectedtext.com/agatab p hint: ItalienUrlaubDerEnländereltern
 
+Do you want NOW participate (before start?) - leave an issue also: -> [Let me know - what to do!](https://github.com/pflegende/agatab/issues/)
+
 don't forget the wiki
 https://github.com/pflegende/agatab/wiki
 
