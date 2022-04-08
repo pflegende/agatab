@@ -66,6 +66,7 @@ https://github.com/pflegende/agatab/wiki
 ---
 ---
 
+
 ![gh independent: we CARE with zero budget](https://img.shields.io/static/v1?label=weCARE&message=with_zero_budget&color=lightgrey)<br>
 ![GitHub last commit](https://img.shields.io/github/last-commit/pflegende/agatab?color=grey)
 ![GitHub all releases](https://img.shields.io/github/downloads/pflegende/agatab/total)
@@ -75,6 +76,8 @@ https://github.com/pflegende/agatab/wiki
 ![GitHub discussions](https://img.shields.io/github/discussions/pflegende/agatab?color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/pflegende/agatab?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/pflegende/agatab?style=social)
+
+Repo backup: [![Build Status](https://cloud.drone.io/api/badges/pflegende/agatab/status.svg)](https://cloud.drone.io/pflegende/agatab)
 
 
 ![Follow us on Twitter?](https://img.shields.io/twitter/follow/pflegedissens?label=Follow&amp;style=social)
