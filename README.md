@@ -66,6 +66,7 @@ https://github.com/pflegende/agatab/wiki
 ---
 ---
 
+announced now also on [Meaningful-Code](https://github.com/Meaningful-Code/meaningfulcode-frontend/issues/29#issue-1197872608)
 
 ![gh independent: we CARE with zero budget](https://img.shields.io/static/v1?label=weCARE&message=with_zero_budget&color=lightgrey)<br>
 ![GitHub last commit](https://img.shields.io/github/last-commit/pflegende/agatab?color=grey)
