@@ -22,7 +22,7 @@ What call you "old"? - a Dino. But we are growing older.
 
 & this `AAA` suggestion:
 ## Why? 
-50%O50 doesnt have a web conection.*
+50%O50 doesnt have a web connection.*
 
 ≈6..8% of all "earthlings" are lonely people O60!** 
 
