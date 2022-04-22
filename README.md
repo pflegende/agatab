@@ -98,5 +98,10 @@ Is everything in operation?
 ![_not visible_](https://img.shields.io/website?down_color=red&down_message=sorry_down_call_us&label=Website%20Pflegende%20&up_color=green&up_message=up&url=https%3A%2F%2Fdemenzpflaster.joomla.com)  
 [![buddy pipeline](https://app.buddy.works/pflegende/agatab/pipelines/pipeline/383208/badge.svg?token=24a284905f270aab3a05cfedb2309b8eed8fbb591327b0f9564f8395572e27f9 "buddy pipeline")](https://app.buddy.works/pflegende/agatab/pipelines/pipeline/383208)
 
+## License
+
+![cc license](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license.
 ---
 🚧🚧🚧 :EOF: 🚧🚧🚧
